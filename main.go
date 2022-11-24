@@ -1,5 +1,5 @@
 package dummydep
 
 func Hello() string {
-	return "hello"
+	return "hello2"
 }
